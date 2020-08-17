@@ -1,0 +1,1 @@
+update CLINIC_VISIT set DTYPE = 'clinicfrance_UrgentVisit' where DTYPE is null ;
